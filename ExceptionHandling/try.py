@@ -1,0 +1,2 @@
+from kagaj import TooYoung
+
